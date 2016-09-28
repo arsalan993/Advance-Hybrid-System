@@ -1,0 +1,17 @@
+The matlab version used is MATLAB 13 so it is advised that this code
+should be run on MATLAB 2013 OR later models.
+
+**HOW TO RUN**
+
+1. Open up matlab.
+2. Write "guide" in the comand window. A new window opens up.
+3. Click on "open existing GUI" and then click "Browse".
+4. Go to the folder in which "fyp.fig" is placed and select it.
+5. After selecting it. The new GUI file's name along with directory should be visible in the "open existing GUI" Panel.
+6. Click on open.
+7. An editable GUI of "fyp.fig" will open up.
+8. click the run button and the GUI will open up.
+
+**CAUTION**
+"fyp.fig" and "data.csv" should be in the same folder.
+The name "data.csv" should not be changed. 
