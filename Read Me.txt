@@ -1,8 +1,1 @@
-In order to run the simulation 
-
-Install proteus 7.5/7.6/7.8 
-To add the arduino library in proteus follow this link
-http://www.instructables.com/id/How-to-add-Arduino-Library-in-to-Proteus-7-8/ 
-Now run the file final_Simulation 2
-In the Simulation values to Grid, Solar power, Battery level and Load Consumption can be varied using the potentiometers attached to analog pins
-load sheding algorithm can be monitored using the Virtual terminal of proteus 
+In order to open finalFYPCode file you need to download and install arduino software from https://www.arduino.cc/en/Main/Software
